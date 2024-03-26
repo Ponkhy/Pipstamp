@@ -1,6 +1,6 @@
 # Pipstamp
 
-It provides an option to timestamp parts of a YouTube video or livestream.
+It provides an option to timestamp parts of a YouTube video or livestream.\
 You can remove a timestamp by clicking on a marker inside of the timeline.
 
 ---
